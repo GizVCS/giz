@@ -14,4 +14,5 @@ Mantras
 =====
   * Make simple things easy and difficult things possible
   * Shock-Minimization Principle
+  * Think big but start small
   
